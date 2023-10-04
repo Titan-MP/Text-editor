@@ -69,7 +69,7 @@ If you would like to contribute as a developer, you can submit a pull request. B
 
 
 ## Heroku Link
-
+https://git.heroku.com/jate-mr.git
 
 
 ## Github Repository
